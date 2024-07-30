@@ -1,6 +1,6 @@
 # Proposta 01
 
-## Sistema de Gerenciamento de Tarefas
+## Sistema de Gerenciamento de Tarefas para gerenciar tarefas, né
 
 ### Descrição
 Um sistema online que ajuda os usuários a gerenciar suas tarefas diárias de forma eficiente, permitindo a criação, edição e acompanhamento de tarefas em um calendário interativo.
@@ -22,7 +22,7 @@ Profissionais, estudantes e qualquer pessoa que precise de ajuda para organizar 
 
 # Proposta 02
 
-## Plataforma de Educação Online
+## Plataforma de Educação Online, tipo um classroom
 
 ### Descrição
 Uma plataforma que oferece cursos online em diversas áreas do conhecimento, permitindo que os usuários aprendam no seu próprio ritmo.
@@ -44,7 +44,7 @@ Estudantes, profissionais em busca de qualificação e qualquer pessoa interessa
 
 # Proposta 03
 
-## Aplicativo de Carona Compartilhada
+## Uber
 
 ### Descrição
 Um aplicativo que conecta motoristas e passageiros que desejam compartilhar caronas para economizar custos e reduzir a emissão de poluentes.
